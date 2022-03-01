@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The woody queristers when birds could speak, and women they, had neither good nor ill to say? The pritty birds fill'd with pain, did to each other, thus complain. To the tune of, The bird-catchers delight.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684-1686?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06942</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[581]</idno>
+            <idno type="EEBO-CITATION">99887988</idno>
+            <idno type="PROQUEST">ocm99887988</idno>
+            <idno type="VID">183660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06942)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183660)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[451])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The woody queristers when birds could speak, and women they, had neither good nor ill to say? The pritty birds fill'd with pain, did to each other, thus complain. To the tune of, The bird-catchers delight.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Clarke, W. Thackeray, and T. Passinger,</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <date>between 1684-1686?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing W3522B.</note>
+                  <note>Verse: "Oh! says the Cuckcow, loud and stout ..."</note>
+                  <note>Cf. Wing W3522B which has "querristers" in the title.</note>
+                  <note>Imperfect: trimmed affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183660:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>The Woody Queriſters</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>When Birds could ſpeak, and Women they,</hi>
+                  </l>
+                  <l>
+                     <hi>Had neither good nor ill to ſay?</hi>
+                  </l>
+                  <l>
+                     <hi>The pritty Birds fill'd with pain,</hi>
+                  </l>
+                  <l>
+                     <hi>Did to each other, thus Complain.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>The Bird-Catchers Delight.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>OH! ſays the <hi>Cuckcow,</hi> loud and ſtout,</l>
+               <l>I flye the Conntry round about:</l>
+               <l>While other Birds my young-ones feed</l>
+               <l>And I my ſelf do ſtand in need.</l>
+            </lg>
+            <lg>
+               <l>Then ſays the <hi>Sparrow</hi> on her neſt,</l>
+               <l>I lov'd a Laſs but it was in jeſt</l>
+               <l>And ever ſince that ſelf ſame thing,</l>
+               <l>I made a vow I neer would ſing.</l>
+            </lg>
+            <lg>
+               <l>In comes the <hi>Robin</hi> and thus he ſaid,</l>
+               <l>I lov'd once a well favoured maid:</l>
+               <l>Her beauty kindled ſuch a ſpark<g ref="char:punc">▪</g>
+               </l>
+               <l>That on my breaſt I bear the mark.</l>
+            </lg>
+            <lg>
+               <l>Then ſaid the <hi>Lark</hi> upon the graſs,</l>
+               <l>I lov'd once a well favour'd Laſs,</l>
+               <l>But ſhe would not heare her true love ſing</l>
+               <l>Though he had a voice would pleaſe a King</l>
+            </lg>
+            <lg>
+               <l>Then ſaid the <hi>Blackbird</hi> as he fled,</l>
+               <l>I loved one but ſhe is dead:</l>
+               <l>And ever ſince my Love I do lack,</l>
+               <l>This is the cauſe I mourn in Black.</l>
+            </lg>
+            <lg>
+               <l>Then ſaid the bonny <hi>Nightingale.</hi>
+               </l>
+               <l>Thus I muſt end my mournfull tale:</l>
+               <l>While others ſing, I sit and mourn,</l>
+               <l>Leaning my breaſt againſt a thorn.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Gh! ſays the <hi>Water-wag-tail</hi> then,</l>
+               <l>I ne'r ſhall be my ſelf again,</l>
+               <l>I loved one, but could not prevail,</l>
+               <l>And this is the cauſe I wag my tail.</l>
+            </lg>
+            <lg>
+               <l>Then ſaid the pretty coloured <hi>Jay,</hi>
+               </l>
+               <l>My deareſt Love is fled away:</l>
+               <l>And in remembrance of my dear,</l>
+               <l>A Feather of every ſort I wear.</l>
+            </lg>
+            <lg>
+               <l>Then ſaid the Leather-winged <hi>Batt,</hi>
+               </l>
+               <l>Mind but my tale, and i'le tell you what,</l>
+               <l>Is the cauſe I do fly by night:</l>
+               <l>Becauſe I loſt my hearts delight.</l>
+            </lg>
+            <lg>
+               <l>Then ſaid the <hi>Green-Bird</hi> as ſhe flew,</l>
+               <l>I loved one that prov'd untrue,</l>
+               <l>And ſince ſhe can no more be ſeen,</l>
+               <l>Like a Love-ſick made I turn ſo green,</l>
+            </lg>
+            <lg>
+               <l>Then did begin the Chattering <hi>Swallow</hi>
+               </l>
+               <l>My Love ſhe is fled, but I would not follow</l>
+               <l>And now upon the Chimney high<g ref="char:punc">▪</g>
+               </l>
+               <l>I ſing forth my poor mellody.</l>
+            </lg>
+            <lg>
+               <l>Oh! ſays the <hi>Owl,</hi> my loue is gone,</l>
+               <l>That I ſo much did dote upon:</l>
+               <l>I know not how my love to follow,</l>
+               <l>But after her I hoop and hollow.</l>
+            </lg>
+            <lg>
+               <l>Then ſays the <hi>Lapwing,</hi> as ſhe flyes,</l>
+               <l>I ſearch the Meadows and the Skies</l>
+               <l>But cannot find my Love again,</l>
+               <l>So about I fly in deadly pain.</l>
+            </lg>
+            <lg>
+               <l>Then ſaid the <hi>Thruſh,</hi> I ſqueak and ſing</l>
+               <l>Which doth to me no comfort bring.</l>
+               <l>For oftentime I at midnight,</l>
+               <l>Record my Love and hearts Delight.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Canary-Bird</hi> ſhe then comes in,</l>
+               <l>To tell her tale ſhe doth begin:</l>
+               <l>I am of my dear'ſt Love bereft,</l>
+               <l>So I have my own Country left.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Chafinch</hi> then begins to ſqueak,</l>
+               <l>For Love quoth he, my heart will break</l>
+               <l>I grieve ſo for my only dear,</l>
+               <l>I ſing but two mounths in a year.</l>
+            </lg>
+            <lg>
+               <l>Then quoth the <hi>Magpye.</hi> I was croſt,</l>
+               <l>In Love and now my Dear is loſt:</l>
+               <l>And wanting of my hearts Delight,</l>
+               <l>I mourn for him in Black and White.</l>
+            </lg>
+            <lg>
+               <l>Oh! ſays the <hi>Rook</hi> and eke the <hi>Crow,</hi>
+               </l>
+               <l>The Reaſon why in Black we go:</l>
+               <l>It is becauſe we are forſook,</l>
+               <l>Come pitty us poor <hi>Crow</hi> and <hi>Rook.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Bulfinch</hi> he was in a rage.</l>
+               <l>And nothing could his wrath aſſwage;</l>
+               <l>So in the woods, he would not Dwell,</l>
+               <l>But ſpend his time in loneſome Cell.</l>
+            </lg>
+            <lg>
+               <l>Thus you do hear the Birds complaint,</l>
+               <l>Taking Delight in their Reſtraint:</l>
+               <l>Let this to all a pattern be,</l>
+               <l>For to Delight in Conſtancy.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
